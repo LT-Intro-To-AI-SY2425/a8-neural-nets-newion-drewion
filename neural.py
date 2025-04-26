@@ -1,4 +1,5 @@
 # Author: Rett Bull, Pomona College
+from neural import *
 
 from typing import List, Tuple, Any
 
